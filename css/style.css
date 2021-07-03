@@ -13,3 +13,6 @@ text-align: center;
 .menu{
     margin-top: 25px;
 }
+div small{
+    display: block;
+}
